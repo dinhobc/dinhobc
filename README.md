@@ -11,9 +11,14 @@
 - *Técnicas de Defesa Cibernética*: Análise de Vulnerabilidades, Threat Intelligence, Forense Digital.
 - *Ferramentas de Desenvolvimento*: Git, GitHub, Docker.
 
-## 📚 Projetos
-- **[cybersecurity-tools](https://github.com/seu-usuario/cybersecurity-tools)**: Um repositório com ferramentas e scripts para defesa cibernética e análise de ameaças.
-- **[data-science-projects](https://github.com/seu-usuario/data-science-projects)**: Projetos de ciência de dados usando Python, pandas, scikit-learn e outros.
+## 📚 Projetos  
+- **[cybersecurity-tools](https://github.com/seu-usuario/cybersecurity-tools)**  
+  Repositório com ferramentas e scripts para defesa cibernética e análise de ameaças.  
+- **[data-science-projects](https://github.com/seu-usuario/data-science-projects)**  
+  Projetos de ciência de dados usando Python, pandas, scikit-learn, entre outras ferramentas.  
+- **[sql-queries-and-plsql](https://github.com/seu-usuario/sql-queries-and-plsql)**  
+  Repositório com *queries SQL otimizadas, **scripts PL/SQL* para automação de processos e *modelos de dados* para análises 
+Avançadas.
 
 ## 🌱 Estou aprendendo
 - *Defesa Cibernética Avançada*: Técnicas de análise de vulnerabilidades, automação e investigação de incidentes.
